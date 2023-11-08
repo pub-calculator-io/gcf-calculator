@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [GCF Calculator](https://www.calculator.io/gcf-calculator/ "GCF Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_gcf_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the GCF Calculator to the sidebar through the `Appearance -> Widgets -> GCF Calculator` menu in WordPress.
+* Add the shortcode `[ci_gcf_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_gcf_calculator(); ?>` to your template where you would like the GCF Calculator to appear.
 
 == Screenshots ==
