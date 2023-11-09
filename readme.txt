@@ -13,6 +13,8 @@ Greatest common factor calculator finds the GCF of a set of numbers and all fact
 
 Greatest common factor calculator finds the GCF of a set of numbers and all factors of these numbers. Solutions with steps for finding the GCF are also demonstrated.
 
+[GCF Calculator Homepage](https://www.calculator.io/gcf-calculator/ "GCF Calculator Homepage")
+
 __Shortcode__
 
 Use the GCF Calculator shortcode:
