@@ -1,6 +1,6 @@
 === GCF Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: gcf calculator, greatest common factor, highest common factor, factor calculator, common divisor, calculate factors, find GCF, common multiples, prime factorization, math calculations
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
