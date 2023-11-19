@@ -1,4 +1,4 @@
-=== GCF Calculator ===
+=== GCF Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: gcf calculator, greatest common factor, highest common factor, factor calculator, common divisor, calculate factors, find GCF, common multiples, prime factorization, math calculations
 Requires at least: 5.0

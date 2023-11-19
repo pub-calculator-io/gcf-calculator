@@ -7,7 +7,7 @@ Greatest common factor calculator finds the GCF of a set of numbers and all fact
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/gcf-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /gcf-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [GCF Calculator](https://www.calculator.io/gcf-calculator/ "GCF Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
