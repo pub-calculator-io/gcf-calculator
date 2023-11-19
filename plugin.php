@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: GCF Calculator by www.calculator.io
+Plugin Name: CI Gcf calculator
 Plugin URI: https://www.calculator.io/gcf-calculator/
 Description: Greatest common factor calculator finds the GCF of a set of numbers and all factors of these numbers. Solutions with steps for finding the GCF are also demonstrated.
 Version: 1.0.0
