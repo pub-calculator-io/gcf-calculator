@@ -24,7 +24,6 @@ Add the following code to your template where you would like the GCF Calculator 
 == Screenshots ==
 
 1. The GCF Calculator Input Form.
-2. The GCF Calculator Calculation Results.
 
 == Installation ==
 

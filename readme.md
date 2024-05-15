@@ -3,7 +3,6 @@
 Greatest common factor calculator finds the GCF of a set of numbers and all factors of these numbers. Solutions with steps for finding the GCF are also demonstrated.
 
 ![GCF Calculator Input Form](/assets/images/screenshot-1.png "GCF Calculator Input Form")
-![GCF Calculator Calculation Results](/assets/images/screenshot-2.png "GCF Calculator Calculation Results")
 
 ## Installation
 
